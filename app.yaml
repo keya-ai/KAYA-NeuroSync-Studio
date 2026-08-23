@@ -1,0 +1,6 @@
+name: KAYA_NeuroSync_Studio
+description: ""
+ports: []
+bricks:
+- arduino:web_ui: {}
+icon: 😀
